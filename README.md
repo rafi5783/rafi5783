@@ -36,6 +36,9 @@ I am always eager to explore emerging security technologies and strengthen the d
 ![Virtualization](https://img.shields.io/badge/Virtualization-2B88D8?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+## 📜 Certifications & Learning
+* **Pre-Security Learning Path** | [TryHackMe] | *Issued: Oct 2025*
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rafi5783&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafi5783&theme=dark&hide_border=true)<br/>
